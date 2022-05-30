@@ -1,8 +1,58 @@
-[
-{
-"name":"Anjalai ammal mahalingam engineering college",
-"image":"https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-"courseoffered":"BE,ME,MCA",
-"address":"kovilveni"
+[ 
+{ 
+"college":"Raja Serfoji Government College",
+"address":Q427+JF9 AVP Azhagamml Nagar,Thanjavur,Tamil Nadu,613006", 
+"image": "",
+"course":"science,Arts,Humanities and social sciences,commerce,management and business administration,computer application and IT" 
 }
+{ "college":"Kundavai Nachiyar Government Women's Arts College", 
+"address":Q4CH+627,N S C Bose Nagar,Ramani Nagar,Thanjavur,Tamil Nadu,613007", 
+"image": "",
+"course":"science,Arts,Humanities and social sciences,commerce,management and business administration,computer application and IT" 
+} 
+{ "college":"Bon Secours College For Women", 
+"address":"Vilar Rd,Thanjavur,Tamil Nadu,613006", 
+"image": "",
+"course":"animation and design,education,science,Arts,Humanities and social sciences,commerce,management and business administration,computer application and IT" }
+
+{ "college":"Bharath College Of Science & Management", 
+"address":P4V4+CV5,Trichy Main Rd,New Housing Unit,Thanjavur,Tamil Nadu,613 005", 
+"image": "",
+"course":"animation and design,Hospitality and Tourism,science,Arts,humanity and social science,media,mass communication and journalism ,commerce,management and business administration,computer application and IT" }
+
+
+{ "college":"A.V.V.M.Sri Pushpam College", 
+"address":"Q6FV+489,Poondi,Thanjavur,Tamil Nadu,613503", 
+"image": "",
+"course":Medicine and allied sciences,education,science,Arts,Humanities and social sciences,commerce,management and business administration,computer application and IT" } 
+
+{ "college":"Sastra Deemed University", 
+"address":"Trichy-Thanjavur Road,Thirumalaisamudram,Thanjavur,Tamil Nadu,613401",
+"image":"",
+"course":"animation and design,education,science,Arts,Humanities and social sciences,commerce,management and business administration,computer application and IT,Engineering and Architecture,Law,Media,Mass Communication and Journalism,Medicine and Allied Sciences,Pharmacy" }
+
+{ "college":"Adaikala Matha College",
+"address":"NH67,Arun Nagar,Vallam Rd,Thanjavur,Tamil Nadu,613403", 
+"image": "",
+"course":"science,Arts,Humanities and social sciences,commerce,management and business administration,computer application and IT" } 
+
+{ "college":"Parisutham Institute of Technology and Science", 
+"address":"NH-67 Ring Road,kamaraji Nagar,Nanajukottai,Thanjavur,Tamil Nadu,613006",
+"image": "",
+"course":"Engineering and Architecture,computer application and IT" } 
+{ "college":"Annai Vailankani Arts and Science College",
+"address":"Bishop Sundaram Campus,Pudukkotai Rd,Thanjavur,Tamil Nadu,613007", 
+"image": "",
+"course":"science,Arts,Humanities and social sciences,commerce,management and business administration,computer application and IT" } 
+
+{ "college":"Kings College Of Engineering (info center)", 
+"address":"NO:2851/35,kamala subramanian arcade,trichy main road,Thanjavur,Tamil Nadu,613005", 
+"image":"",
+"course":"animation and design,computer application and IT,Engineering and Architecture" } 
+
+
+{ "college":"Periyar Maniammai Institute of Science & Technology", 
+"address":"Periyar Nagar,Vallam,Thanjavur,Tamil Nadu,613403", 
+"image": "",
+"course":"animation and design,education,science,Arts,Humanities and social sciences,commerce,management and business administration,computer application and IT,Engineering and Architecture" }
 ]
