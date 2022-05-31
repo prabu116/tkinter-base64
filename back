@@ -2,7 +2,7 @@
 { 
 "college":"Raja Serfoji Government College",
 "address":"Q427+JF9 AVP Azhagamml Nagar,Thanjavur,Tamil Nadu,613006", 
-"image": https://github.com/prabu116/tkinter-base64/blob/main/anjalai.jpeg,
+"images": "https://github.com/prabu116/tkinter-base64/blob/main/anjalai.jpeg",
 "course":"science,Arts,Humanities and social sciences,commerce,management and business administration,computer application and IT" 
 }
 
